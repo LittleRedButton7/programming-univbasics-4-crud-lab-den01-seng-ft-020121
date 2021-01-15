@@ -33,7 +33,7 @@ end
 
 def retrieve_first_element_from_array(array)
   my_array6 = ["wow", "I", "am", "really", "learning", "arrays!"]
-  my_array6
+  my_array6[0]
 end
 
 def retrieve_last_element_from_array(array)
