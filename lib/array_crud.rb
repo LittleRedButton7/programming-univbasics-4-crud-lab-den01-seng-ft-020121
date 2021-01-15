@@ -17,7 +17,8 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  
+  my_array3 = ["I", "am", "really", "learning", "arrays!"]
+  my_array3.shift
 end
 
 def remove_element_from_start_of_array(array)
