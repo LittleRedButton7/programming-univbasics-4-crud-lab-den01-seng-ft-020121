@@ -18,8 +18,8 @@ end
 
 def remove_element_from_end_of_array(array)
   my_array3 = ["I", "am", "really", "learning", "arrays!"]
-  rem_el_array = my_array3.shift
-  p rem_el_array
+  new_array = my_array3.shift
+  p _array
 end
 
 def remove_element_from_start_of_array(array)
